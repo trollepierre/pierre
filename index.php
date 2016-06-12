@@ -6,7 +6,7 @@
   	  <meta name="viewport" content="width=device-width, initial-scale=1">
   	  <meta name="description" content="">
   	  <meta name="author" content="">
-  	  <link rel="shortcut icon" href="icon.ico">
+  	  <link rel="shortcut icon" href="img/icon.ico">
     
   	  <title>Personal Page of Pierre T.</title>
     
@@ -59,8 +59,7 @@
   	 
   		  </div>
   	  </div>
-    
-    
+        
   	  <!-- Carousel   	  ================================================== -->
   	  <div id="myCarousel" class="carousel slide" data-ride="carousel">
   		  <!-- Indicators -->
@@ -74,7 +73,7 @@
   				  
   				  <div class="container">
   					  <div class="carousel-caption">
-						  <img class="img-thumbnail" src="img/tdm2.jpg" alt="First slide">
+						  <img class="img-thumbnail" src="https://www.dropbox.com/s/h3rxolkkaexqoxi/tdm2.jpg?dl=1" alt="First slide">
   						  <h1>One year around the world.</h1>
   						  <p>Who has never dreamed to do a world trip? Beno&icirc;t and I have decided to realise an adventurous travel around the world and we want to share it with you!</p>
   						  <p><a class="btn btn-lg btn-primary" href="http://www.recontact.me" role="button">Discover our trip</a></p>
@@ -84,7 +83,7 @@
   			  <div class="item">
   				  <div class="container">
   					  <div class="carousel-caption">
-						  <img class="img-thumbnail" src="img/wekit.png" alt="Second slide" >
+						  <img class="img-thumbnail" src="https://www.dropbox.com/s/v8md01pxsy2vdkx/wekit.png?dl=1" alt="Second slide" >
   						  <h1>Keep in Touch with your relatives.</h1>
   						  <p>Life is much more interesting when you can share it with the people that really count for you. Continue to maintain a close and supportive relationship with your relatives depending on your affinity:</p>
   						  <p><a class="btn btn-lg btn-primary" href="http://wekit.recontact.me" role="button">Discover WeKiT</a></p>
@@ -94,7 +93,7 @@
   			  <div class="item">
   				 <div class="container">
   					  <div class="carousel-caption">
-						<img class="img-thumbnail" src="img/r.jpg" alt="Third slide">
+						<img class="img-thumbnail" src="https://www.dropbox.com/s/49uxepxksc5iscz/r.jpg?dl=1" alt="Third slide">
 						<h1>Help an entrepreneur.</h1>
 						<p>Let me introduce you my startup ideas. Whatever your interest in these ideas, your feedbacks will contribute to the realisation of them. View the description, comment ideas, recommand friends, apply to concretise an idea with me!</p>
 						<p><a class="btn btn-lg btn-primary" href="http://startup.recontact.me" role="button">View ideas</a></p>
@@ -105,9 +104,7 @@
   		  <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
   		  <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
   	  </div><!-- /.carousel -->
-    
-    
-    
+
   	  <!-- Marketing messaging and featurettes ================================================== -->
   	  <!-- Wrap the rest of the page in another container to center all the content. -->
   	    <a id="three"></a>  
@@ -117,7 +114,7 @@
   		  <div class="row three">
 		    
 			  <div class="col-lg-4">
-  				  <img class="img-circle" src="img/world.jpg" alt="Generic placeholder image">
+  				  <img class="img-circle" src="https://www.dropbox.com/s/bq39qhbiwcvmy24/world.jpg?dl=1" alt="Generic placeholder image">
   				  <h2>World Trip</h2>
   				  <p>Discover the world. That sounds like a dream. <br/>
    				 For me, it is just a worthy opportunity to take. <br/>
@@ -125,7 +122,7 @@
   				  <p><a class="btn btn-default" href="http://www.recontact.me" role="button">Let's dream &raquo;</a></p>
   			  </div><!-- /.col-lg-4 -->
   			  <div class="col-lg-4">
-  				  <img class="img-circle" src="img/kit.png" alt="Generic placeholder image">
+  				  <img class="img-circle" src="https://www.dropbox.com/s/x7elndjjsfk036b/kit.png?dl=1" alt="Generic placeholder image">
   				  <h2>WeKiT</h2>
   				  <p>Keep in Touch with friends is valuable. <br/>
    				 I developed an App to assist me in getting in touch. <br/>
@@ -133,7 +130,7 @@
   				  <p><a class="btn btn-default" href="http://wekit.recontact.me" role="button">Discover WeKiT &raquo;</a></p>
   			  </div><!-- /.col-lg-4 -->
   			  <div class="col-lg-4">
-  				  <img class="img-circle" src="img/arg.jpg" alt="Generic placeholder image">
+  				  <img class="img-circle" src="https://www.dropbox.com/s/n4wjpiindhbtcrv/arg.jpg?dl=1" alt="Generic placeholder image">
   				  <h2>Coin Collector</h2>
   				  <p>Finding unknown coin is exciting. <br/>
    				 Revealing information about coin, sort it out <br/>
@@ -157,7 +154,7 @@
   				  Hitchhiking in Nubra Valley, India.</p>
   			  </div>
   			  <div class="col-md-5">
-  				  <img class="featurette-image img-responsive" src="img/traveler500.png" alt="Generic placeholder image">
+  				  <img class="featurette-image img-responsive" src="https://www.dropbox.com/s/8j7weki1ofwm3du/traveler500.png?dl=1" alt="Generic placeholder image">
   			  </div>
   		  </div>
   	 
@@ -165,7 +162,7 @@
   	 
   		  <div class="row featurette">
   			  <div class="col-md-5">
-  				  <img class="featurette-image img-responsive" src="img/entrep500.jpg" alt="Generic placeholder image">
+  				  <img class="featurette-image img-responsive" src="https://www.dropbox.com/s/c5gnwl41golxuq4/entrep500.jpg?dl=1" alt="Generic placeholder image">
   			  </div>
   			  <div class="col-md-7">
   				  <h2 class="featurette-heading">Changing the world at work.<br/> <span class="text-muted">Have real impact with entrepreneurship.</span></h2>
@@ -185,24 +182,18 @@
   				  <br/> Inside a team of entrepreneurs.</p>
   			  </div>
   			  <div class="col-md-5">
-  				  <img class="featurette-image img-responsive" src="img/FRIENDS500.png" alt="Generic placeholder image">
+  				  <img class="featurette-image img-responsive" src="https://www.dropbox.com/s/ygmtba1ugf4mtob/FRIENDS500.png?dl=1" alt="Generic placeholder image">
   			  </div>
   		  </div>
-  	 
 			<hr>
-
-  	 
   		  <!-- /END THE FEATURETTES -->
   	  </div><!-- /.container -->
-   
   		  <!-- FOOTER -->
     <footer>
   			  <p>Website by Pierre T. <br/> Explore my creation on my <a href="#">website</a></p>
   			  <p>  			  <a href="#">Back to top</a>  			  </p>
     </footer>
-  	   </body>
-   
-    
+  	   </body>  
 </html>
 <!-- Bootstrap core JavaScript
 	================================================== -->
